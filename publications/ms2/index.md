@@ -1,10 +1,10 @@
-﻿---
+---
 layout: default
 title: Modelling Systems
 ---
 
 
-
+<img src="{{ site.url }}/publications/ms2.jpg" height="140" alt="Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition">
 
 ### Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition
 
