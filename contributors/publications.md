@@ -4,7 +4,7 @@ title: Overture Publications
 ---
 # Books
 
- <table>
+<table>
         <thead>
             <tr>
                 <th></th>
@@ -22,7 +22,7 @@ title: Overture Publications
 				<td><a href="{{ site.url }}/publications/crescendo/"> <img src="{{ site.url }}/publications/crescendo.jpg" alt="The Book on Collaborative Development of Cyber-Physical Systems"> </a></td>
             </tr>
         </tbody>
-    </table>
+</table>
 
 
 # Publications
