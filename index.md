@@ -11,7 +11,7 @@ title: Overture Tool Project
 <script>updateFrontPage();</script>
 
 
-# Welcome to the Overture Tool Project
+# Welcome to the Overture Tool Project --lausdahl
 
 Overture is a community-based project developing the next generation
 of open-source tools to support modelling and analysis in the design
