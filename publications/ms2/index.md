@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: default
 title: Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition
 ---
@@ -7,7 +7,7 @@ title: Modelling Systems: Practical Tools and Techniques for Software Developmen
 
 ### Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition
 
-John Fitzgerald and Peter Gorm Larsen, Cambridge University Press, 2nd Edition, 2009 ISBN 0 521 62348 0 with a foreword by Dines Bjørner and Cliff Jones Hardback £40.00 Paperback c £24.95
+John Fitzgerald and Peter Gorm Larsen, Cambridge University Press, 2nd Edition, 2009 ISBN 0 521 62348 0 with a foreword by Dines BjÃ¸rner and Cliff Jones Hardback Â£40.00 Paperback c Â£24.95
 This site contains Exercises, VDM-SL examples from the book, course material and more information on the VDM family of modelling languages and tools. If you would like to know more about VDM we recommend visiting the VDM Portal. Since we are using TWiki, you can contribute to this site too!
 
 ### About the book
