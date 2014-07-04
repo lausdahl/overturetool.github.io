@@ -5,7 +5,7 @@ title: Overture Publications
 
 # Publications
 
-<script src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/lausdahl/overturetool.github.io/master/contributors/overtureweb.bib&jsonp=1"></script> 
+<script src="http://bibbase.org/show?bib=http://lausdahl.github.io/overturetool.github.io/contributors/overtureweb.bib&jsonp=1"></script> 
 
 
 
