@@ -11,6 +11,7 @@ This page seeks to list relevant publications that relates to Overture and the V
 * [Training Material]({{ site.url }}/publications/training/)
 
 
+## Publication list:
 <script src="http://bibbase.org/show?bib={{ site.url }}/publications/overtureweb.bib&jsonp=1"></script> 
 
 
