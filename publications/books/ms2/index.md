@@ -3,8 +3,21 @@ layout: default
 title: Modelling Systems
 ---
 
-
-<img src="{{ site.url }}/publications/books/ms2.jpg" height="140" alt="Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition">
+<table>
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="{{ site.url }}/publications/books/ms2/"> <img src="{{ site.url }}/publications/books/ms2.jpg" height="140" alt="Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition"> </a></td>
+				<td><a href="{{ site.url }}/publications/books/ms2/"> <img src="{{ site.url }}/publications/books/ms2-jp.png" height="140" alt="Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition"> </a></td>
+ 
+            </tr>
+        </tbody>
+</table>
 
 ### Modelling Systems: Practical Tools and Techniques for Software Development: 2nd Edition
 
