@@ -51,20 +51,31 @@ Slides supporting the book can be found on the [VDM Portal](http://www.vdmportal
 #### page 75
 
 The last sentence on the page should be changed from:
-`Thus, the month can be extracted from a date by selecting field 2:`
+
+~~~
+Thus, the month can be extracted from a date by selecting field 2:
+~~~
+
 to:
-`Thus, the street can be extracted from an address by selecting field 2:`
+
+~~~
+Thus, the street can be extracted from an address by selecting field 2:
+~~~
 
 #### page 90
 There is a problem with the definition of the `Sample` function definition. It makes use of the `Sex` function. However, `Sex` takes a `CPRNo`Digits4` as a parameter whereas in `Sample` it is being passed a `CPRNo` in the line:
+
 ~~~
 p in set pop and Sex(p) = sexreqd
 ~~~
+
 One solution is to make use of the `GetCode()` operation that is defined on p93.
 The line then becomes:
+
 ~~~
 p in set pop and Sex(p.GetCode()) = sexreqd
 ~~~
+
 This change applies to both boxed definitions of `Sample`.
 
 #### page 93
@@ -75,10 +86,13 @@ changed to:
 
 #### page 155
 The body of `CarPassingEvent` should say:
+
 ~~~
 NewPassage(distanceBetweenLoops / drivingTime)
 ~~~
+
 instead of:
+
 ~~~
 NewPassage(distanceBetweenLoops * drivingTime)
 ~~~
