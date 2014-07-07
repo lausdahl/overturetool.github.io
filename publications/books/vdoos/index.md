@@ -124,6 +124,7 @@ This change is necessary in order to ensure that the invariant (requiring the le
 
 #### page 180
 The first box should be changed to:
+
 ~~~
 class CongestionSensor
 
@@ -138,7 +139,7 @@ end CongestionSensor
 #### page 292
 Figure 12.3 should be changed to the following figure:
 
-<img src="{{ site.url }}/publications/books/vdoos/pop3seqdia.png" />
+<img src="{{ site.url }}/publications/books/vdoos/pop3seqdia.PNG" />
 
 #### page 355/356
 **Exercise 5.1** All three boxed solutions should be modified as described for p90 above.
